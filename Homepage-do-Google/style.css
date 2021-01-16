@@ -161,4 +161,13 @@ body {
     .content_logo {
         height: 110px;
     }
+    .menu {
+        height: 48px;
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .left {
+        display: none;
+    }
 }
